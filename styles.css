@@ -189,6 +189,16 @@ a:active {
   justify-content: center;
 }
 
+.about-iframe-container {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 100%;
+  margin-top: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .hero-iframe {
   width: 100% !important;
   height: auto !important;
